@@ -1,0 +1,17 @@
+{
+  "name": "ford-club",
+  "authors": [
+    "Arnaud Lejeune"
+  ],
+
+  "dependencies": {
+
+    "polymer": "polymer/polymer#^1.4.0",
+    "scalable-image-grid":"vogelrh/scalable-image-grid#^1.0",
+    "webcomponentsjs":"webcomponents/webcomponentsjs#^1.0.1",
+    "scary-gallery":"Scarygami/scary-gallery#^2.0.0"
+  },
+  "devDependencies": {
+  },
+  "private": true
+}
