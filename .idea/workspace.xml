@@ -2,209 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="639b43b4-082e-4565-a5d3-73fc81a22af3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about-us.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activities.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about-us-old.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/demo/x-key-aware.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/test/basic-test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/GUIDE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/classes/iron-flex-layout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/classes/iron-shadow-flex-layout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/iron-flex-layout-classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/iron-flex-layout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/test/iron-flex-layout-classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/test/iron-flex-layout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/demo/loading.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/demo/polymer.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/iron-image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/test/iron-image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/demo/src/x-app.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/iron-resizable-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/test/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/test/iron-resizable-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/test/test-elements.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/hero.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/paper-ripple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/test/paper-ripple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/build.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer-micro.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer-mini.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/demo/demoL.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/demo/demoP.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/scalable-image-grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scalable-image-grid/test/scalable-image-grid_test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/demo/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/demo/img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/demo/img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/demo/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/demo/img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/demo/img6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/polymer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/scary-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/scary-image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/scary-gallery/test/scary-gallery_test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/banner.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/custom-elements-es5-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/entrypoints/custom-elements-es5-adapter-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/entrypoints/webcomponents-hi-ce-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/entrypoints/webcomponents-hi-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/entrypoints/webcomponents-hi-sd-ce-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/entrypoints/webcomponents-hi-sd-ce-pf-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/entrypoints/webcomponents-sd-ce-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/externs/webcomponents.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/src/post-polyfill.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/src/pre-polyfill.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/src/unresolved.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/ce-import-upgrade-async.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/ce-import-upgrade.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/ce-import.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/ce-upgrade-order.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/ce-upgradedocumenttree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/dev-loader-swizzled.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/dev-loader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/force-polyfills.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/a1-define.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/a1-import.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/a1-instance.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/a1-reference.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/csp-import-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/csp-import-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/csp-script-1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/csp-script-2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/current-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/element-import-a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/element-import-b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/element-import.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/import-file.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/import-upgrade-order.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/script-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/script-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/simple-element-es5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/imports/simple-element.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/integration-es5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/integration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/load.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/runner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/smoke.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/template-and-CE.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/tests/template-and-imports.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/wct.conf.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-hi-ce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-hi-ce.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-hi-sd-ce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-hi-sd-ce.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-hi.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-lite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-lite.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-loader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-sd-ce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponents/webcomponents-sd-ce.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/build.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.min.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Driving2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/kc-police-car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advertisers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newsletters.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio-item.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme.css" afterPath="$PROJECT_DIR$/css/theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -222,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="137" column="43" lean-forward="false" selection-start-line="137" selection-start-column="43" selection-end-line="137" selection-end-column="43" />
+            <state relative-caret-position="217">
+              <caret line="140" column="23" lean-forward="true" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="23" />
               <folding>
                 <marker date="1503292485000" expanded="false" signature="4813:4843" ph="..." />
               </folding>
@@ -364,6 +167,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KCModelA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KCModelA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -481,13 +298,20 @@
       <option name="presentableId" value="Default" />
       <updated>1500003048657</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1503292557736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503292557736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="736" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27382874" sideWeight="0.4927798" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27382874" sideWeight="0.4927798" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -509,6 +333,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -948,8 +776,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="137" column="43" lean-forward="false" selection-start-line="137" selection-start-column="43" selection-end-line="137" selection-end-column="43" />
+        <state relative-caret-position="217">
+          <caret line="140" column="23" lean-forward="true" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="23" />
           <folding>
             <marker date="1503292485000" expanded="false" signature="4813:4843" ph="..." />
           </folding>
