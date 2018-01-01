@@ -94,16 +94,18 @@ a:hover,a:focus {
 @media(min-width:768px) {
 	.navbar-custom {
 		padding:20px 0;
-		border-bottom:0;
-		font-size:13px;
-		background:0 0;
+		border-bottom:1px solid rgba(12, 12, 12, 0.49);
+		font-size:16px;
+		/*background:0 0;*/
+		background:#f9f9f9;
+		color:#000;
 		-webkit-transition:background .5s ease-in-out,padding .5s ease-in-out;
 		-moz-transition:background .5s ease-in-out,padding .5s ease-in-out;
 		transition:background .5s ease-in-out,padding .5s ease-in-out;
 	}
 		 .navbar-custom.top-nav-collapse {
 		 padding:0;
-		border-bottom:1px solid rgba(255,255,255,.3);
+		border-bottom:1px solid rgba(12, 12, 12, 0.49);
 		color:#333;
 			background:#fff;
 	}
@@ -120,7 +122,8 @@ a:hover,a:focus {
 	text-align:center;
 	color:#fff;
 	/*background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('../img/1932-ford-v8-roadster-nb.jpg');*/
-	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('../img/kc-police-car.png');
+	/*background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('../img/police-car-1.JPG');*/
+	background-image:url('../img/police-car-1.JPG');
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	background-size:cover;
@@ -151,8 +154,8 @@ a:hover,a:focus {
 		padding:10px 0;
 	}
 	.intro .intro-body .intro-text {
-		font-size:20px;
-			font-weight:300;
+		font-size:34px;
+		font-weight:300;
 			letter-spacing:3px;
 	}
 }
@@ -410,6 +413,7 @@ section:after {
 	clear:both;
 }
 section {
+	margin-top:35px;
 	background-color:#f9f9f9;
 	color:#333;
 	overflow:hidden;
@@ -452,3 +456,38 @@ section {
 	outline:0;
 	outline: none;
 }
+
+
+    article.clients {
+	/*		float: left;*/
+			display: inline-block;
+			text-align: center;
+			width: 253px;
+			height: 150px;
+			margin-right: 15px;
+			margin-bottom: 15px;
+			/*border: 1px solid #4d4d4d;*/
+			-webkit-border-radius: 3px;
+			   -moz-border-radius: 3px;
+						 border-radius: 3px;
+		}
+
+
+		article.clients * {
+			vertical-align: middle;
+		}
+
+		article.clients span {
+			display: inline-block;
+			border: 1px solid #4d4d4d
+			height: 100%;
+			width: 1px;
+		}
+
+		article.newsletter img {
+		    margin:15px;
+		}
+
+	article.clients.last {
+		margin-right: 0px;
+	}
